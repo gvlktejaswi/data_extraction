@@ -1,0 +1,43 @@
+Description,Fixed Value,Unit,Uncertainty Type,Uncertainty Value,Datafile,Note
+sfo,38,MPa,,,Table 2,
+soo,10.6,MPa,,,Table 2,
+a,0.090,,,,Table 2,
+q,0.6,,,,Table 2,
+b,0.69,,,,Table 2,
+eso,0.007,,,,Table 2,
+d,0.0013,,,,Table 2,
+so @ ėp=0.00035 s^-1,7,MPa,,,Table 1,ėp=0.00035 s^-1
+sf @ ėp=0.00035 s^-1,27,MPa,,,Table 1,ėp=0.00035 s^-1
+eps @ ėp=0.00035 s^-1,0.013,,,,Table 1,ėp=0.00035 s^-1
+b @ ėp=0.00035 s^-1,0.63,,,,Table 1,ėp=0.00035 s^-1
+q @ ėp=0.00035 s^-1,0.56,,,,Table 1,ėp=0.00035 s^-1
+so @ ėp=0.004 s^-1,8,MPa,,,Table 1,ėp=0.004 s^-1
+sf @ ėp=0.004 s^-1,29.3,MPa,,,Table 1,ėp=0.004 s^-1
+eps @ ėp=0.004 s^-1,0.010,,,,Table 1,ėp=0.004 s^-1
+b @ ėp=0.004 s^-1,0.63,,,,Table 1,ėp=0.004 s^-1
+q @ ėp=0.004 s^-1,0.51,,,,Table 1,ėp=0.004 s^-1
+so @ ėp=0.027 s^-1,9,MPa,,,Table 1,ėp=0.027 s^-1
+sf @ ėp=0.027 s^-1,31.7,MPa,,,Table 1,ėp=0.027 s^-1
+eps @ ėp=0.027 s^-1,0.009,,,,Table 1,ėp=0.027 s^-1
+b @ ėp=0.027 s^-1,0.70,,,,Table 1,ėp=0.027 s^-1
+q @ ėp=0.027 s^-1,0.47,,,,Table 1,ėp=0.027 s^-1
+so @ ėp=0.20 s^-1,10,MPa,,,Table 1,ėp=0.20 s^-1
+sf @ ėp=0.20 s^-1,35.4,MPa,,,Table 1,ėp=0.20 s^-1
+eps @ ėp=0.20 s^-1,0.008,,,,Table 1,ėp=0.20 s^-1
+b @ ėp=0.20 s^-1,0.68,,,,Table 1,ėp=0.20 s^-1
+q @ ėp=0.20 s^-1,0.70,,,,Table 1,ėp=0.20 s^-1
+so @ ėp=2.1 s^-1,11,MPa,,,Table 1,ėp=2.1 s^-1
+sf @ ėp=2.1 s^-1,39.5,MPa,,,Table 1,ėp=2.1 s^-1
+eps @ ėp=2.1 s^-1,0.0075,,,,Table 1,ėp=2.1 s^-1
+b @ ėp=2.1 s^-1,0.70,,,,Table 1,ėp=2.1 s^-1
+q @ ėp=2.1 s^-1,0.76,,,,Table 1,ėp=2.1 s^-1
+so @ ėp=29 s^-1,12,MPa,,,Table 1,ėp=29 s^-1
+sf @ ėp=29 s^-1,42.5,MPa,,,Table 1,ėp=29 s^-1
+eps @ ėp=29 s^-1,0.006,,,,Table 1,ėp=29 s^-1
+b @ ėp=29 s^-1,0.75,,,,Table 1,ėp=29 s^-1
+q @ ėp=29 s^-1,0.59,,,,Table 1,ėp=29 s^-1
+so @ ėp=91 s^-1,13,MPa,,,Table 1,ėp=91 s^-1
+sf @ ėp=91 s^-1,46.5,MPa,,,Table 1,ėp=91 s^-1
+eps @ ėp=91 s^-1,0.005,,,,Table 1,ėp=91 s^-1
+b @ ėp=91 s^-1,0.75,,,,Table 1,ėp=91 s^-1
+q @ ėp=91 s^-1,0.54,,,,Table 1,ėp=91 s^-1

@@ -1,0 +1,40 @@
+
+        MATERIAL PROPERTIES EXTRACTION REPORT
+        =====================================
+        
+        Source: "Modelling the behaviour of plastics for design under impact"
+        Authors: G. Dean, B. Read (National Physical Laboratory, UK)
+        
+        MATERIAL STUDIED:
+        - Propylene-ethylene copolymer (8% ethylene content)
+        
+        KEY FINDINGS FROM PDF:
+        1. Tensile Properties:
+           - Yield stress range: (7, 13) MPa
+           - Flow stress range: (27, 46.5) MPa
+           - Strain rates tested: [0.00035, 0.004, 0.027, 0.2, 2.1, 29, 91] s⁻¹
+        
+        2. Rate Dependence:
+           - Follows Eyring equation: σ = A + B log(strain_rate)
+           - Main rate dependence in yield and flow stresses
+           - Poisson's ratio shows minimal rate dependence
+        
+        3. Testing Methods:
+           - ISO multipurpose specimens for rates < 0.1 s⁻¹
+           - Servo-hydraulic testing for rates up to 30 s⁻¹
+           - Falling weight impact for highest rates
+        
+        4. Model Parameters (from Table 2):
+           - σfo: 38 MPa
+           - σoo: 10.6 MPa
+           - Rate factor 'a': 0.09
+        
+        RECOMMENDATIONS FOR EXCEL TABLE COMPLETION:
+        1. Use provided values for similar PP-PE copolymers
+        2. Conduct additional tests for missing properties
+        3. Consider strain rate effects for impact applications
+        4. Validate model predictions with experimental data
+        
+        NOTE: Some values are estimated based on typical polymer behavior
+        and should be verified through direct testing for your specific material.
+        
